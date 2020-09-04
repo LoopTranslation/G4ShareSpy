@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "G4ShareSpyPlugin";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Opphavsrett © 2019 Mark Wilson. Alle rettigheter forbeholdt.";
+
