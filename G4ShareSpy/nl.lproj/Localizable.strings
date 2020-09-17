@@ -21,7 +21,7 @@
 "Glucose (Adjusted)" = "Glucose (aangepast)";
 
 /* Section title for latest glucose reading */
-"Latest Reading" = "Laatste meeting";
+"Latest Reading" = "Laatste meting";
 
 /* Sensor state description for the non-valid state */
 "Needs Attention" = "Aandacht vereist";
