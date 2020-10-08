@@ -18,13 +18,13 @@
 "Glucose" = "Glukoosi";
 
 /* Describes a glucose value adjusted to reflect a recent calibration */
-"Glucose (Adjusted)" = "Glukoosi (säädetty)";
+"Glucose (Adjusted)" = "Glukoosi (mukautettu)";
 
 /* Section title for latest glucose reading */
 "Latest Reading" = "Viimeisin lukema";
 
 /* Sensor state description for the non-valid state */
-"Needs Attention" = "Tarvitsee huomiota";
+"Needs Attention" = "Tarvitsee huomion";
 
 /* Sensor state description for the valid state */
 "OK" = "OK";
