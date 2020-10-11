@@ -24,7 +24,7 @@
 "Latest Reading" = "Viimeisin lukema";
 
 /* Sensor state description for the non-valid state */
-"Needs Attention" = "Tarvitsee huomion";
+"Needs Attention" = "Tarvitsee huomiota";
 
 /* Sensor state description for the valid state */
 "OK" = "OK";
