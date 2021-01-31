@@ -15,7 +15,7 @@
 "Dexcom G4" = "Dexcom G4";
 
 /* Title describing glucose value */
-"Glucose" = "Glukose";
+"Glucose" = "Blodsukker";
 
 /* Describes a glucose value adjusted to reflect a recent calibration */
 "Glucose (Adjusted)" = "Blodsukker (Justert)";
